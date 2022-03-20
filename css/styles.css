@@ -1,0 +1,31 @@
+
+
+
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  color: #66BFBF;
+
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+hr {
+  background-color: #EAF6F6;
+  border-style: dotted none none;
+  border-width:5px;
+  border-color: #66BFBF;
+  width: 10%;
+}
+
+.job: {
+  color: black;
+}
+
+.city {
+  color: black;
+}
