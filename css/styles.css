@@ -1,6 +1,3 @@
-
-
-
 body {
   background-color: #EAF6F6;
 }
@@ -15,11 +12,11 @@ h3 {
 }
 
 hr {
-  background-color: #EAF6F6;
   border-style: dotted none none;
   border-width:5px;
   border-color: #66BFBF;
-  width: 10%;
+  width: 5%;
+
 }
 
 .job {
